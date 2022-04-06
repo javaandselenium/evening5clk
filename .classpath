@@ -7,5 +7,20 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="software/selenium-server-4.1.2 (1).jar"/>
+	<classpathentry kind="lib" path="Poi/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="Poi/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="Poi/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="Poi/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="Poi/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-examples-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-excelant-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-integration-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-ooxml-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-ooxml-full-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-ooxml-lite-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Poi/poi-scratchpad-5.0.0.jar"/>
+	<classpathentry kind="lib" path="Poi/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="Poi/xmlbeans-4.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
