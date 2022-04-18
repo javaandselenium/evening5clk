@@ -1,4 +1,14 @@
-/sceenshot/
-/popups/
-/frames/
+/WebElements/
+/actions/
+/autosuggestion/
+/basics/
 /dataDriven/
+/dropdown/
+/frames/
+/locators/
+/navigationAPI/
+/popups/
+/sceenshot/
+/scrollBar/
+/synchronization/
+/windowmanagement/
