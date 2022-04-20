@@ -9,10 +9,10 @@ public class Test1 {
 
 	public static void main(String[] args) {
 
-		WebDriver driver=new ChromeDriver();
-		driver.manage().window().maximize();
-		driver.get("https://demoapp.skillrary.com/");
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+WebDriver driver=new ChromeDriver();
+driver.manage().window().maximize();
+driver.get("https://demoapp.skillrary.com/");
+driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 Skillrary s=new Skillrary(driver);
 s.loginbutton();
 s.emailaddress("admin");
